@@ -1,0 +1,50 @@
+h1{
+	color: blue;
+}
+
+.red{
+
+	background-color: red;
+}
+
+.black{
+	  border: 5px solid yellow;
+}
+
+#big_font{
+	font-size: 50px;
+}
+
+.box{
+	width: 200px;
+	height: 100px;
+	background-color: yellow;
+}
+
+.box1{
+	width: 200pt;
+	height: 100pt;
+	background-color: green;
+}
+
+.box2{
+	width: 25em;
+	height: 10em;
+	background-color: orange;
+}
+
+.box3{
+	width: 25rem;
+	height: 10rem;
+	background-color: red;
+}
+
+.box4{
+	width: 30%;
+	height: 100px;
+	background-color: blue;
+}
+
+
+
+

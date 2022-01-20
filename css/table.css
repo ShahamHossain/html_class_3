@@ -1,0 +1,19 @@
+table{
+	width: 100%;
+	border: 1px solid black;
+}
+
+th, td{
+	font-size: 20px;
+	text-align: center;
+	border: 1px solid black;
+}
+
+caption{
+	font-size: 20px;
+	border: 3px solid black;
+}
+
+td:hover{
+	background-color: #ddd;
+}
